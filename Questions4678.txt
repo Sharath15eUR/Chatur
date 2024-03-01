@@ -1,0 +1,7 @@
+Question 4: *(*(*(*(a + i) + j) + k) + 2)
+
+Question 6: 8
+
+Question 7: 16
+
+Question 8: 87654321
